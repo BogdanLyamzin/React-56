@@ -1,0 +1,10 @@
+.header {
+    padding: 15px 0;
+    text-align: center;
+}
+
+.header-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 25px;
+}

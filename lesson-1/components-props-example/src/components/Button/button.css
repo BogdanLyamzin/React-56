@@ -1,0 +1,9 @@
+.btn {
+    display: inline-block;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 10px 15px;
+    color: red;
+    border: 1px solid red;
+    cursor: pointer;
+}
